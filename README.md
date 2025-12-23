@@ -1,3 +1,2 @@
-# flutter_project
-
-A new Flutter project.
+# Flutter_Project
+This is repository for Mobile Programming Final Projects
